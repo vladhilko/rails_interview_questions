@@ -1,0 +1,5 @@
+git (base commands)
+OOP (Class, Object ...)
+Database (SQL)
+Datatypes (String, Array, Hash ...)
+Ruby (basics)
