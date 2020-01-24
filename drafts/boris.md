@@ -95,21 +95,21 @@
 1. What gems for testing do you know?
 
 ## Git questions
-1. What is a VCS? What is git? Why use it?
-1. How to create a repository, connect an external repository?
-1. How to download a remote repository?
-1. What is commit? How to view commit history?
-1. What file states exist on a Git system?
-1. What is a branch in Git?
-1. Differences between merge and rebase commands?
-1. How to download the latest changes from a specific branch?
-1. How to send my changes to a remote repository?
-1. How to add changes to an already created commit? change the name of such a commit?
-1. How to delete a branch locally and from a remote repository?
-1. What are pull requests? How to create them?
-1. How to transfer changes from one branch to another (2 ways)?
-1. What is an SSH key for?
-1. git commit - in what cases write -am, -a and -m?
+1. [x] What is a VCS? What is git? Why use it?
+1. [ ] How to create a repository, connect an external repository?
+1. [ ] How to download a remote repository?
+1. [ ] What is commit? How to view commit history?
+1. [ ] What file states exist on a Git system?
+1. [ ] What is a branch in Git?
+1. [ ] Differences between merge and rebase commands?
+1. [ ] How to download the latest changes from a specific branch?
+1. [ ] How to send my changes to a remote repository?
+1. [ ] How to add changes to an already created commit? change the name of such a commit?
+1. [ ] How to delete a branch locally and from a remote repository?
+1. [ ] What are pull requests? How to create them?
+1. [ ] How to transfer changes from one branch to another (2 ways)?
+1. [ ] What is an SSH key for?
+1. [ ] git commit - in what cases write -am, -a and -m?
 
 ## Database questions
 1. What is a relational database?
