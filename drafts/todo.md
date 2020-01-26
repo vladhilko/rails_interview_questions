@@ -10,12 +10,11 @@ ToDo
 
 # Patterns
 - Design patterns (singleton, decorator, adapter, presenter, comand, observer)
-- SOLID
+- Design principles (SOLID, KISS, YAGNI, DRY, Tell-Don't-Ask)
 - MVC
-- Kiss, yagni,
-- Ddd
-- Tdd, bdd
-- refactoring( code smells, dead code)
+- DDD
+- TDD, BDD
+- refactoring( code smells, dead code ...)
 - OOP
 - Microservices architecture 
 - DI ( dependency injection) 
