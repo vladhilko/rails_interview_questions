@@ -27,30 +27,30 @@
 1. [ ] What is ORM?
 
 ## Ruby questions
-1. What data types are used in Ruby? What is an array? hash? line? number? time? symbol?
-1. Why is it in Ruby 1660/100 ≠ 16.6?
-1. Why in Ruby 24.0 * 0.1 ≠ 2.4?
-1. What structures are there in ruby?
-1. What is loop, while, map, each ?
-1. What is the difference between each and map?
-1. What loops and iterators are there in Ruby?
-1. What variables are there, where are they used, where are they available (visibility fields)?
-1. What is a variable with one @ and a variable with two @@?
-1. What is the difference between require and require_relative?
-1. What is a gem? Why we need it?
-1. How to create getter and setter methods in ruby?
-1. What is attr_reader, attr_writer and attr_accessor?
-1. What does the keyword self mean?
-1. What are singleton methods and singleton classes?
-1. What is a module in ruby? What is the difference between a class and a module?
-1. How is inheritance organized in Ruby?
-1. What is the difference between include and extend? What is prepend?
-1. Implementing multiple inheritance in ruby?
-1. What are the ways to call methods in ruby?
-1. What is proc, lambda, block? And what are the differences between them?
-1. Threading in ruby?
-1. What is safe navigation?
-1. If in the module do extend self what will happen?
+1. [x] What data types are used in Ruby? What is an array? hash? line? number? time? symbol?
+1. [x] Why is it in Ruby 1660/100 ≠ 16.6?
+1. [x] Why in Ruby 24 * 0.1 ≠ 2.4?
+1. [ ] What structures are there in ruby?
+1. [ ] What is loop, while, map, each ?
+1. [x] What is the difference between each and map?
+1. [ ] What loops and iterators are there in Ruby?
+1. [ ] What variables are there, where are they used, where are they available (visibility fields)?
+1. [x] What is a variable with one @ and a variable with two @@?
+1. [ ] What is the difference between require and require_relative?
+1. [x] What is a gem? Why we need it?
+1. [ ] How to create getter and setter methods in ruby?
+1. [x] What is attr_reader, attr_writer and attr_accessor?
+1. [x] What does the keyword self mean?
+1. [ ] What are singleton methods and singleton classes?
+1. [ ] What is a module in ruby? What is the difference between a class and a module?
+1. [x] How is inheritance organized in Ruby?
+1. [x] What is the difference between include and extend? What is prepend?
+1. [x] Implementing multiple inheritance in ruby?
+1. [ ] What are the ways to call methods in ruby?
+1. [x] What is proc, lambda, block? And what are the differences between them?
+1. [ ] Threading in ruby?
+1. [x] What is safe navigation?
+1. [ ] If in the module do extend self what will happen?
 
 ## Ruby on Rails questions
 1. What is a ActiveRecord and what tools does it provide for working with objects?

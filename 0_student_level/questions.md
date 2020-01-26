@@ -21,7 +21,6 @@
 
 1. What is MVC? Why use it?
 
-
 # General Programming
 
 1. What is the difference between static and dynamic typing in programming languages?
@@ -31,3 +30,11 @@
 1. What is namespace and why use them?
 1. Explain, what is caching?
 1. Where is it faster to add an element in the array (hash) in the middle or at the end?
+
+# Ruby
+
+1. What data types are used in Ruby? What is an array? hash? line? number? time? symbol?
+1. Variables that start with a capital letter are what kind of variables in Ruby?
+1. What is attr_reader, attr_writer and attr_accessor? What is the difference?
+1. What is a gem? Why we need it?
+1. What is the difference between each and map?
