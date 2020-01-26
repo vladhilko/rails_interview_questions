@@ -10,8 +10,8 @@
 1. [ ] Explain, what is caching?
 1. [ ] Where is it faster to add an element in the array (hash) in the middle or at the end?
 1. [x] What are the 3 levels of access control for methods in the class? Explain each.
-1. [ ] What is a class? What is an object (class instance)? What is the difference?
-1. [ ] What is a constructor? What is an object initialization?
+1. [x] What is a class? What is an object (class instance)? What is the difference?
+1. [x] What is a constructor? What is an object initialization?
 1. [ ] What is MVC? Why use it?
 1. [ ] How do MVC components interact with each other? The pattern of the pattern in general.
 1. [ ] What is REST? Why use it?
