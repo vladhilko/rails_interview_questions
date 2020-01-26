@@ -16,8 +16,8 @@ ToDo
 - TDD, BDD
 - refactoring( code smells, dead code ...)
 - OOP
-- Microservices architecture 
-- DI ( dependency injection) 
+- Microservices architecture
+- DI ( dependency injection)
 
 
 # Rails
@@ -28,7 +28,7 @@ ToDo
 - Service & query & form objects
 - Migrations
 - Serialization (json)
-- Middleware 
+- Middleware
 
 # Ruby (is your friend :3)
 - Threads
@@ -36,6 +36,9 @@ ToDo
 - Metaprogramming, Monkey patching
 - Lambda, Proc, blocks
 - Types ( aray, str, hash, nomeric, tree…)
+- Class/Modules
+
+# General Programming
 
 # Tests
 # Git
