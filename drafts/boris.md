@@ -1,18 +1,18 @@
 ## Programming and OOP questions
 
 1. [x] What is OOP? What are the 3 principles of OOP and their meaning?
-1. [ ] What is the difference between static and dynamic typing in programming languages?
-1. [ ] What is difference between strong and weak typing in programming languages?
-1. [ ] What is the difference between explicit and implicit typing in programming languages?
-1. [ ] The fundamental difference between script and "ordinary" languages?
-1. [ ] What is namespace and why use them?
+1. [x] What is the difference between static and dynamic typing in programming languages?
+1. [x] What is difference between strong and weak typing in programming languages?
+1. [x] What is the difference between explicit and implicit typing in programming languages?
+1. [x] The fundamental difference between script and "ordinary" languages?
+1. [x] What is namespace and why use them?
 1. [ ] What is the difference between thread and process
-1. [ ] Explain, what is caching?
-1. [ ] Where is it faster to add an element in the array (hash) in the middle or at the end?
+1. [x] Explain, what is caching?
+1. [x] Where is it faster to add an element in the array (hash) in the middle or at the end?
 1. [x] What are the 3 levels of access control for methods in the class? Explain each.
 1. [x] What is a class? What is an object (class instance)? What is the difference?
 1. [x] What is a constructor? What is an object initialization?
-1. [ ] What is MVC? Why use it?
+1. [x] What is MVC? Why use it?
 1. [ ] How do MVC components interact with each other? The pattern of the pattern in general.
 1. [ ] What is REST? Why use it?
 1. [ ] What is CRUD?
