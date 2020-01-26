@@ -4,6 +4,10 @@
 
 1. What are the 3 levels of access control for methods in the class? Explain each.
 
+## Design patterns 
+
+1. What design patterns do you know?
+
 # Ruby
 
 1. Variables that start with '@' symbols are what kind of variables in Ruby?
@@ -22,3 +26,7 @@
 1. What is the difference between include and extend? What is prepend?
 1. Implementing multiple inheritance in ruby?
 1. How is inheritance organized in Ruby?
+
+# Rails
+
+1. Where should the logic be in the application?

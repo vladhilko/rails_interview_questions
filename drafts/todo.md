@@ -8,15 +8,9 @@ ToDo
 - mySQL, PostgreSQL, redis
 - NoSQL (MOngo, elasticsearch, solr)
 
-<<<<<<< HEAD
 # Patterns
 - Design patterns (singleton, decorator, adapter, presenter, comand, observer)
 - Design principles (SOLID, KISS, YAGNI, DRY, Tell-Don't-Ask)
-=======
-# Design/Patterns
-- Design patterns (singleton, decorator, adapter, presenter, command, observer)
-- SOLID
->>>>>>> Add some new questions
 - MVC
 - DDD
 - TDD, BDD

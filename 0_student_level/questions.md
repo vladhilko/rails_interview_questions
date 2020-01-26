@@ -21,6 +21,10 @@
 
 1. What is MVC? Why use it?
 
+## Design principles
+
+1. What is DRY?
+
 # General Programming
 
 1. What is the difference between static and dynamic typing in programming languages?
@@ -38,3 +42,8 @@
 1. What is attr_reader, attr_writer and attr_accessor? What is the difference?
 1. What is a gem? Why we need it?
 1. What is the difference between each and map?
+
+# Rails
+
+1. What is CRUD?
+1. Where should the logic be in the application?

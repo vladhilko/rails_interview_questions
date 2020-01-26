@@ -15,9 +15,9 @@
 1. [x] What is MVC? Why use it?
 1. [ ] How do MVC components interact with each other? The pattern of the pattern in general.
 1. [ ] What is REST? Why use it?
-1. [ ] What is CRUD?
+1. [x] What is CRUD?
 1. [ ] Rules for building a REST API.
-1. [ ] Where should the logic be in the application?
+1. [x] Where should the logic be in the application?
 1. [ ] What are migrations for?
 1. [ ] What is a Strong Params?
 1. [ ] What is KISS, DRY, SOLID, YAGNI?
